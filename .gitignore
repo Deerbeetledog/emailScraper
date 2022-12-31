@@ -133,3 +133,4 @@ dmypy.json
 
 #vscode by-product
 .suo
+.sln
