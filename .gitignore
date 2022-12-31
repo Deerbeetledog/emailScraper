@@ -130,3 +130,6 @@ dmypy.json
 
 #google by-product
 .google-cookie
+
+#vscode by-product
+.suo
