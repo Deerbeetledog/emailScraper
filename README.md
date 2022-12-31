@@ -9,3 +9,9 @@ password
 email subject
 email contents (can span multiple lines)
 ```
+
+be sure to use
+```
+pip install -r requirements.txt
+```
+to install all the requirements for the script to work
